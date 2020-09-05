@@ -1,2 +1,2 @@
-SourceTree‚ÅƒvƒbƒVƒ…‚·‚éÛ‚ÍURLİ’è‚É’ˆÓ!
+ï»¿SourceTreeã§ãƒ—ãƒƒã‚·ãƒ¥ã™ã‚‹éš›ã¯URLè¨­å®šã«æ³¨æ„!
 https://kantaro-cgi.com/blog/git/bitbucket-permission-error.html
